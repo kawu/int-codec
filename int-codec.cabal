@@ -1,0 +1,9 @@
+Name:               int-codec
+Version:            0.0.1
+Synopsis:           Encoding/decoding data with integers
+Author:             Jakub Waszczuk
+Maintainer:         waszczuk.kuba@gmail.com
+Build-type:         Simple
+Exposed-modules:    Data.Codec
+Build-Depends:      base
+		  , containers
